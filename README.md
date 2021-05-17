@@ -15,4 +15,4 @@ probleme bağlı olan veri kümesindeki kolonlar ve açıklamaları;
     slope -> the slope of the peak exercise ST segment - ST segmentinin eğitinin tepe noktası eğimi
     ca -> number of major vessels (0-3) colored by flourosopy - florosopi ile renklendirilmiş ana damarların tal sayısı 0 ile 3 arasında veri alıyor.
     thal -> thal: 3 = normal; 6 = fixed defect; 7 = reversable defect - 3 normal,6 sabit kusut,7 tersine çevirilebilinir mi diye sınıflanırılmış bir usur olup olmadığı ile ilişkili.
-    target -> 1 veya 0 - sonuç eğer kalp rahatsızlığı varsa 1,yoksa 0 diye veri kümesine girilm
+    target -> 1 veya 0 - sonuç eğer kalp rahatsızlığı varsa 1,yoksa 0 diye veri kümesine girilmiş
